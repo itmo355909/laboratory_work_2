@@ -6,11 +6,11 @@
 </div>
 
 ## Exercise
-:grey_exclamation: Pull request
-:grey_exclamation: Git flow
-:grey_exclamation: README
-:grey_exclamation: Tags
-:grey_exclamation: Submodules
-:grey_exclamation: LFS
+:grey_exclamation: Pull request  
+:grey_exclamation: Git flow  
+:grey_exclamation: README  
+:grey_exclamation: Tags  
+:grey_exclamation: Submodules  
+:grey_exclamation: LFS  
 
 ### This work help me to improve my skills of using github.
