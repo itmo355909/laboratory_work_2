@@ -5,12 +5,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## Exercise
-:grey_exclamation: Pull request  
-:grey_exclamation: Git flow  
-:grey_exclamation: README  
-:grey_exclamation: Tags  
-:grey_exclamation: Submodules  
-:grey_exclamation: LFS  
+## Exercise 📋
+▪️ Pull request  
+  
+▪️ Git flow  
+  
+▪️ README  
+  
+▪️ Tags  
+  
+▪️ Submodules  
+  
+▪️ LFS  
 
 ### This work help me to improve my skills of using github.
